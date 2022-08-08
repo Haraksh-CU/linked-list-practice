@@ -1,3 +1,4 @@
+//link-list
 #include<iostream>
 using namespace std;
 class node{
